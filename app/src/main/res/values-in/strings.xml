@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hey Movie</string>
+    <string name="movie_title">Judul film</string>
+    <string name="movie_release">Tanggal rilis</string>
+    <string name="movie_overview">Sinopsis</string>
+
+</resources>
